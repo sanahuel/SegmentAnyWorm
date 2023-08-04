@@ -1,4 +1,4 @@
 sam_vit_h_4b8939.pth
 env/
 data/*
-!data/.gitkeep
+!data/example.png
